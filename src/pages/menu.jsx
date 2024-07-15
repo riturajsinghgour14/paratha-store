@@ -138,7 +138,7 @@ const Menu = () => {
           <i class="fa-regular fa-star"></i>
           </span>
           <span>
-            <h3><i class="fa-sharp fa-solid fa-indian-rupee-sign"></i>10 <i class="fa-solid fa-cart-shopping"></i></h3>
+            <h3><i class="fa-sharp fa-solid fa-indian-rupee-sign"></i>100 <i class="fa-solid fa-cart-shopping"></i></h3>
           </span>
        </div>
     </div>
