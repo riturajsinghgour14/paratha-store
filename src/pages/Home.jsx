@@ -54,7 +54,7 @@ const Home = () => {
   <h1 className='text-center p-5'>Our Popular Parathas</h1>
 <div class="row g-5">
     <div class=" col-md-3 col-sm-12" >
-    <div className="card p-3 text-dark text shadow-lg">
+    <div className="card p-3 text-dark text-center shadow-lg">
     <img src={plain} class="card-img-top" alt="..."/>
          <h5 className='text-danger p-1'>Plaint Paratha</h5>
           <span className='text-warning'>
@@ -71,7 +71,7 @@ const Home = () => {
     </div>
 
     <div class=" col-md-3 col-sm-12" >
-    <div className="card p-3 text-dark shadow-lg">
+    <div className="card p-3 text-dark text-center shadow-lg">
     <img src={aloo} class="card-img-top" alt="..."/>
          <h5 className='text-danger p-1'>Aloo Paratha</h5>
           <span className='text-warning'>
@@ -88,7 +88,7 @@ const Home = () => {
     </div>
 
     <div class=" col-md-3 col-sm-12 " >
-    <div className="card p-3 text-dark shadow-lg">
+    <div className="card p-3 text-center text-dark shadow-lg">
     <img src={veg} class="card-img-top" alt="..."/>
          <h5 className='text-danger p-1'>Veg Paratha</h5>
           <span className='text-warning'>
@@ -104,7 +104,7 @@ const Home = () => {
        </div>
     </div>
     <div class=" col-md-3 col-sm-12 " >
-    <div className="card p-3 text-dark shadow-lg">
+    <div className="card p-3 text-dark text-center shadow-lg">
     <img src={cheese} class="card-img-top" alt="..."/>
          <h5 className='text-danger p-1'>Cheese Paratha</h5>
           <span className='text-warning'>
@@ -125,7 +125,7 @@ const Home = () => {
 
     <div class="row my-5 g-5">
     <div class=" col-md-3 col-sm-12" >
-    <div className="card p-3 text-dark shadow-lg">
+    <div className="card p-3 text-dark text-center shadow-lg">
     <img src={corn} class="card-img-top" alt="..."/>
          <h5 className='text-danger p-1'>Corn Paratha</h5>
           <span className='text-warning'>
@@ -142,7 +142,7 @@ const Home = () => {
     </div>
 
     <div class=" col-md-3 col-sm-12" >
-    <div className="card p-3 text-dark shadow-lg">
+    <div className="card p-3 text-dark text-center shadow-lg">
     <img src={methi} class="card-img-top" alt="..."/>
          <h5 className='text-danger p-1'> Methi Paratha</h5>
           <span className='text-warning'>
@@ -159,7 +159,7 @@ const Home = () => {
     </div>
      
     <div class=" col-md-3 col-sm-12" >
-    <div className="card p-3 text-dark text shadow-lg">
+    <div className="card p-3 text-dark text-center shadow-lg">
     <img src={gobhi} class="card-img-top" alt="..."/>
          <h5 className='text-danger p-1'> Gobhi Paratha</h5>
           <span className='text-warning'>
@@ -176,7 +176,7 @@ const Home = () => {
     </div>
 
     <div class=" col-md-3 col-sm-12" >
-    <div className="card p-3 text-dark text shadow-lg">
+    <div className="card p-3 text-dark text-center shadow-lg">
     <img src={sev} class="card-img-top" alt="..."/>
          <h5 className='text-danger p-1'> Sev Paratha</h5>
           <span className='text-warning'>

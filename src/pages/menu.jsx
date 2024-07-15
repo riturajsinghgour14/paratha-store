@@ -127,7 +127,7 @@ const Menu = () => {
     </div>
      
     <div class=" col-md-3 col-sm-12" >
-    <div className="card p-3 text-dark text shadow-lg">
+    <div className="card p-3 text-dark  shadow-lg">
     <img src={gobhi} class="card-img-top" alt="..."/>
          <h5 className='text-danger p-1'> Gobhi Paratha</h5>
           <span className='text-warning'>
@@ -144,7 +144,7 @@ const Menu = () => {
     </div>
 
     <div class=" col-md-3 col-sm-12" >
-    <div className="card p-3 text-dark text shadow-lg">
+    <div className="card p-3 text-dark  shadow-lg">
     <img src={sev} class="card-img-top" alt="..."/>
          <h5 className='text-danger p-1'> Sev Paratha</h5>
           <span className='text-warning'>
@@ -166,7 +166,7 @@ const Menu = () => {
 
   <div class="row my-5 g-5">
     <div class=" col-md-3 col-sm-12" >
-    <div className="card p-3 text-dark text shadow-lg">
+    <div className="card p-3 text-dark  shadow-lg">
     <img src={lacha} class="card-img-top" alt="..."/>
          <h5 className='text-danger p-1'>Lacha Paratha</h5>
           <span className='text-warning'>
@@ -183,7 +183,7 @@ const Menu = () => {
     </div>
 
     <div class=" col-md-3 col-sm-12" >
-    <div className="card p-3 text-dark text shadow-lg">
+    <div className="card p-3 text-dark  shadow-lg">
     <img src={palak} class="card-img-top" alt="..."/>
          <h5 className='text-danger p-1'> Palak Paratha</h5>
           <span className='text-warning'>
@@ -200,7 +200,7 @@ const Menu = () => {
     </div>
      
     <div class=" col-md-3 col-sm-12" >
-    <div className="card p-3 text-dark text shadow-lg">
+    <div className="card p-3 text-dark  shadow-lg">
     <img src={onion} class="card-img-top" alt="..."/>
          <h5 className='text-danger p-1'> Onion Paratha</h5>
           <span className='text-warning'>
@@ -217,7 +217,7 @@ const Menu = () => {
     </div>
 
     <div class=" col-md-3 col-sm-12" >
-    <div className="card p-3 text-dark text shadow-lg">
+    <div className="card p-3 text-dark  shadow-lg">
     <img src={paner} class="card-img-top" alt="..."/>
          <h5 className='text-danger p-1'> Paner Paratha</h5>
           <span className='text-warning'>
